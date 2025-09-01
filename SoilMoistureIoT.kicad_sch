@@ -2,9 +2,1167 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid 6eae54c6-c206-4dc6-8158-b1e680dd71f0)
+	(uuid "6eae54c6-c206-4dc6-8158-b1e680dd71f0")
 	(paper "A4")
 	(lib_symbols)
+	(junction
+		(at 119.38 110.49)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8306242f-13ad-4bdc-ae62-3c628620ef63")
+	)
+	(wire
+		(pts
+			(xy 113.03 114.3) (xy 127 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0c6321a8-a43c-4861-901a-08837c9de064")
+	)
+	(wire
+		(pts
+			(xy 113.03 73.66) (xy 127 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "208354dd-984b-4cde-bc18-118f9e021f43")
+	)
+	(wire
+		(pts
+			(xy 156.21 107.95) (xy 168.91 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "260bea58-2475-495b-bf5c-f9b2345ca7c3")
+	)
+	(wire
+		(pts
+			(xy 156.21 110.49) (xy 168.91 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3f9c5913-8d49-4e56-8eaa-4e23cb7db997")
+	)
+	(wire
+		(pts
+			(xy 113.03 95.25) (xy 127 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4a43a839-06d8-4932-ba24-acb614be8434")
+	)
+	(wire
+		(pts
+			(xy 78.74 106.68) (xy 85.09 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "552aaec8-ce59-4864-86d6-eaa82083b466")
+	)
+	(wire
+		(pts
+			(xy 78.74 95.25) (xy 78.74 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5aa063c2-1a1e-4b82-908b-abd944644142")
+	)
+	(wire
+		(pts
+			(xy 194.31 97.79) (xy 194.31 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b065742-ac1a-4d69-8d96-41c9a4a14440")
+	)
+	(wire
+		(pts
+			(xy 156.21 78.74) (xy 168.91 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "61f3dd49-a622-4caf-9d11-0068f3ec0ce9")
+	)
+	(wire
+		(pts
+			(xy 156.21 102.87) (xy 168.91 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "68b68058-b632-4d73-b1be-32a80eeeafab")
+	)
+	(wire
+		(pts
+			(xy 156.21 100.33) (xy 168.91 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6a281ead-280c-4ee5-aa26-c969ef69c0c8")
+	)
+	(wire
+		(pts
+			(xy 113.03 106.68) (xy 127 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6c0a28f3-f514-4631-be6a-a1ad66edd3a2")
+	)
+	(wire
+		(pts
+			(xy 113.03 81.28) (xy 127 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6fcf13d1-234f-465b-bde7-ac7c6b498b87")
+	)
+	(wire
+		(pts
+			(xy 113.03 129.54) (xy 127 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "72e823c5-8bfd-41cb-93ca-0a423bc99c04")
+	)
+	(wire
+		(pts
+			(xy 190.5 97.79) (xy 194.31 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "784807e2-d41b-414d-b8fe-ca8ab196268b")
+	)
+	(wire
+		(pts
+			(xy 119.38 143.51) (xy 119.38 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "83607f8e-f034-46f0-bc5e-342c7c16aa86")
+	)
+	(wire
+		(pts
+			(xy 85.09 95.25) (xy 78.74 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "865aa877-382e-432e-9d63-abf5320d30ce")
+	)
+	(wire
+		(pts
+			(xy 156.21 68.58) (xy 168.91 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9bdde605-314d-42d8-bee2-057dee63f742")
+	)
+	(wire
+		(pts
+			(xy 156.21 76.2) (xy 168.91 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a47c45a3-bf69-463f-9676-ece7b3cb05a1")
+	)
+	(wire
+		(pts
+			(xy 113.03 119.38) (xy 127 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aa44be44-347a-4124-824f-21cc735b2c62")
+	)
+	(wire
+		(pts
+			(xy 156.21 81.28) (xy 168.91 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aace64f2-7d28-44cd-b0bf-dfa799a77a93")
+	)
+	(wire
+		(pts
+			(xy 113.03 85.09) (xy 119.38 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b1268b5a-2f7e-4570-a05d-fd9cff3efd81")
+	)
+	(wire
+		(pts
+			(xy 113.03 121.92) (xy 127 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b273cb3a-b479-4179-b336-c15c37d41513")
+	)
+	(wire
+		(pts
+			(xy 156.21 71.12) (xy 168.91 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b3e3fe07-7c64-4e58-a718-5b6eceb0fe9b")
+	)
+	(wire
+		(pts
+			(xy 76.2 110.49) (xy 85.09 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b3ed59b8-bc89-477a-b534-7fb9ca5e4344")
+	)
+	(wire
+		(pts
+			(xy 194.31 68.58) (xy 194.31 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b5076387-8a77-4f03-8b50-64f234f612e3")
+	)
+	(wire
+		(pts
+			(xy 76.2 59.69) (xy 76.2 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b6c71af7-d339-4880-a4aa-acbb69c0f997")
+	)
+	(wire
+		(pts
+			(xy 113.03 125.73) (xy 127 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b81f9b2e-0754-42d7-a80c-86c662169766")
+	)
+	(wire
+		(pts
+			(xy 113.03 110.49) (xy 119.38 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b9588cad-fde9-4f15-ab64-4ce903d7e296")
+	)
+	(wire
+		(pts
+			(xy 113.03 68.58) (xy 127 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b9b1ebfb-2cfb-4660-9071-32baaccc0d80")
+	)
+	(wire
+		(pts
+			(xy 119.38 85.09) (xy 119.38 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c4868576-049a-4375-8647-2923f3b82a2e")
+	)
+	(wire
+		(pts
+			(xy 194.31 143.51) (xy 119.38 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c94f0dc1-c157-4c76-9d93-3ecd2b86fd26")
+	)
+	(wire
+		(pts
+			(xy 190.5 68.58) (xy 194.31 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d2ba866c-3acd-4277-831f-b4ca95201236")
+	)
+	(wire
+		(pts
+			(xy 113.03 76.2) (xy 127 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dbba7098-c465-4e9c-a104-61249ce180e7")
+	)
+	(wire
+		(pts
+			(xy 127 110.49) (xy 119.38 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dc7a1057-9ad7-4cea-85ef-7c9899b5a2c1")
+	)
+	(wire
+		(pts
+			(xy 156.21 97.79) (xy 168.91 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e4a830c8-115a-4af7-bc0f-56ba27d6d6a2")
+	)
+	(wire
+		(pts
+			(xy 113.03 132.08) (xy 127 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ed6bd340-fe51-48c2-8004-9af146ec31f5")
+	)
+	(wire
+		(pts
+			(xy 194.31 59.69) (xy 76.2 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fa7c3129-5897-4d30-a630-7142a61b4e54")
+	)
+	(sheet
+		(at 85.09 92.71)
+		(size 27.94 6.35)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "22e9f486-4798-4059-a7c3-70d4a6cb0bad")
+		(property "Sheetname" "sensor"
+			(at 85.09 91.9984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sensor.kicad_sch"
+			(at 85.09 99.6446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "A_SIG_OUT" output
+			(at 113.03 95.25 0)
+			(uuid "3a5239ff-879e-468e-bd4b-d943aa9653ba")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "VDD_5V" input
+			(at 85.09 95.25 180)
+			(uuid "29fd7e1e-0371-48f6-9eff-45af1e7a3da1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "SoilMoistureIoT"
+				(path "/6eae54c6-c206-4dc6-8158-b1e680dd71f0"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 85.09 64.77)
+		(size 27.94 22.86)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3949ee7e-094b-4de6-a13a-5d424a36c737")
+		(property "Sheetname" "watchdog"
+			(at 85.09 64.0584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "watchdog.kicad_sch"
+			(at 85.09 88.2146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "SIG_IN" input
+			(at 113.03 76.2 0)
+			(uuid "5e99607c-e868-43c1-8204-d177d84bcd64")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "~{RST}" output
+			(at 113.03 68.58 0)
+			(uuid "0fc6e7da-2e5c-4b56-a3c1-cdc1bbd5cd59")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SYS_EN" input
+			(at 113.03 81.28 0)
+			(uuid "766e36af-b6a3-4b21-9505-5dd3a0a4c90f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "VDD" input
+			(at 113.03 85.09 0)
+			(uuid "e091a924-de5d-40c1-b305-ab908b6fb8b7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SIG_OUT" output
+			(at 113.03 73.66 0)
+			(uuid "35e73c78-3d1a-42f6-add1-b1c0e75dbc6d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "SoilMoistureIoT"
+				(path "/6eae54c6-c206-4dc6-8158-b1e680dd71f0"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 85.09 104.14)
+		(size 27.94 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "519de0ed-c376-4d97-93f0-c2eb3057e7f8")
+		(property "Sheetname" "power_supply"
+			(at 85.09 103.4284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power_supply.kicad_sch"
+			(at 85.09 135.2046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "VBUS" input
+			(at 113.03 106.68 0)
+			(uuid "a84575f8-cda9-4425-b30d-dc5c7cfdcd47")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "VDD_3V3" output
+			(at 113.03 110.49 0)
+			(uuid "13eab3dd-3e40-415b-89cc-1634cb0c720b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "VDD_5V" output
+			(at 85.09 106.68 180)
+			(uuid "3135a690-b9e4-4ec0-8496-4a6a97450edc")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PM_SDA" bidirectional
+			(at 113.03 129.54 0)
+			(uuid "e88f1e8e-3ef6-4bfb-92d0-dc7bebc9fd58")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "VDD_3V3_MOD" output
+			(at 85.09 110.49 180)
+			(uuid "35a1619e-6579-474c-90ad-c5a6723c8829")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SENSOR_PWR_EN" input
+			(at 113.03 119.38 0)
+			(uuid "d97656e8-f731-4c5b-9d24-555497d65a6d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "MOD_PWR_EN" input
+			(at 113.03 121.92 0)
+			(uuid "41f0244f-e311-4f18-b5e7-69e51ffd2038")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "PM_~{IRQ}" output
+			(at 113.03 125.73 0)
+			(uuid "ba0966c8-1655-4331-bd56-884e63eb6f21")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "PM_SCL" input
+			(at 113.03 132.08 0)
+			(uuid "307e9140-8960-4f15-b196-afbcd567b2aa")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "VDD_USB" output
+			(at 113.03 114.3 0)
+			(uuid "73f57867-f7fc-47d8-84c4-b39d39d51443")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "SoilMoistureIoT"
+				(path "/6eae54c6-c206-4dc6-8158-b1e680dd71f0"
+					(page "10")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 168.91 93.98)
+		(size 21.59 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8ec2a5ed-daeb-437b-a8f4-23b6f7bcb640")
+		(property "Sheetname" "storage"
+			(at 168.91 93.2684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "storage.kicad_sch"
+			(at 168.91 114.8846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "VDD" input
+			(at 190.5 97.79 0)
+			(uuid "1fb8a276-d02b-4904-bed7-150467e55b0e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "MOSI" input
+			(at 168.91 97.79 180)
+			(uuid "ffff2b94-8dd9-40c8-9b3e-37ef70206d22")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SCK" input
+			(at 168.91 102.87 180)
+			(uuid "95473feb-ef34-41e8-ac38-0055c6d9e352")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "~{WP}" input
+			(at 168.91 107.95 180)
+			(uuid "d521bf6b-7d14-411a-8066-a11b33b078f4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MISO" output
+			(at 168.91 100.33 180)
+			(uuid "1d50253e-df8f-4106-8b29-f8650e49cdab")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "~{HOLD}" input
+			(at 168.91 110.49 180)
+			(uuid "c76f8fe8-59ea-45ff-a8d3-703e89655679")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "SoilMoistureIoT"
+				(path "/6eae54c6-c206-4dc6-8158-b1e680dd71f0"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 127 64.77)
+		(size 29.21 69.85)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ad775ff2-1cdf-4c1b-bda6-7abaa696ba2c")
+		(property "Sheetname" "mcu"
+			(at 127 64.0584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mcu.kicad_sch"
+			(at 127 135.2046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "STR_~{HOLD}" output
+			(at 156.21 110.49 0)
+			(uuid "b99fd86d-bf82-4af1-8acc-04123962207f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "MOD_TX" output
+			(at 156.21 68.58 0)
+			(uuid "6aab6bc2-6aea-4f83-925c-26f8681c4560")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "MOD_RX" input
+			(at 156.21 71.12 0)
+			(uuid "6eb984f8-e00d-42eb-b480-0fe645f85bb5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "STR_SCK" output
+			(at 156.21 102.87 0)
+			(uuid "d511ad2a-d4c3-40f7-84a8-2fc74d87473a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "STR_MOSI" output
+			(at 156.21 97.79 0)
+			(uuid "50ba3557-83c5-4346-a90d-3e3161470e45")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "STR_MISO" input
+			(at 156.21 100.33 0)
+			(uuid "938a16b8-57fd-4eca-94fa-6c10ebc50f31")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "STR_~{WP}" output
+			(at 156.21 107.95 0)
+			(uuid "0c984ee4-fbe4-499c-9bfb-ab97f21e7990")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "EWDG_~{RST}" input
+			(at 127 68.58 180)
+			(uuid "d2dea767-b940-4706-ae3c-2257729adee6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EWDG_IN" input
+			(at 127 73.66 180)
+			(uuid "0576e7ce-0d86-464e-8b03-63841e0b4c5c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EWDG_OUT" output
+			(at 127 76.2 180)
+			(uuid "34aaefd4-da84-429f-892c-b4e1048a7704")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MOD_~{RST}" output
+			(at 156.21 81.28 0)
+			(uuid "648bad33-d495-4034-acba-d1bf88c04a8c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "MOD_AP_READY" input
+			(at 156.21 76.2 0)
+			(uuid "8a0e30a0-9658-49e2-833d-8aa8c0fae9a2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "MOD_~{PWRKEY}" output
+			(at 156.21 78.74 0)
+			(uuid "2f74e3d7-800f-4553-bee4-28f11470e2b8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "EWDG_EN" output
+			(at 127 81.28 180)
+			(uuid "f02f0019-d618-4a1b-aa13-0b4001295778")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SENSE_IN" input
+			(at 127 95.25 180)
+			(uuid "920f7656-a575-4e8f-a3e1-de86c7c87927")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "VBUS" output
+			(at 127 106.68 180)
+			(uuid "9de1c1c9-8118-45fd-9800-9bf80ff56c2c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "VDD" input
+			(at 127 110.49 180)
+			(uuid "1bf0271e-c78a-4ebe-a30b-d71e39140645")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PMS_SDA" bidirectional
+			(at 127 129.54 180)
+			(uuid "9ec8ddea-a248-4264-a07c-c8bcadf69bcc")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PMS_SCL" output
+			(at 127 132.08 180)
+			(uuid "1959635a-2b1b-4654-97dd-5e05e3077480")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "VDD_USB" input
+			(at 127 114.3 180)
+			(uuid "b67d95eb-1c65-4d68-a707-c0ddab62813a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SENSE_PWR_EN" output
+			(at 127 119.38 180)
+			(uuid "f22b8ea2-6629-4437-81b4-dadad6a94b1d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PMS_~{IRQ}" input
+			(at 127 125.73 180)
+			(uuid "2f598e70-9f53-4133-a9f4-75394feeb6d9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MOD_PWR_EN" output
+			(at 127 121.92 180)
+			(uuid "4a2ff02f-950e-4041-a3e6-e3e29d89d326")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "SoilMoistureIoT"
+				(path "/6eae54c6-c206-4dc6-8158-b1e680dd71f0"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 168.91 64.77)
+		(size 21.59 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ebbdb87f-b8f8-4648-9b7d-b4445aa220ac")
+		(property "Sheetname" "modem"
+			(at 168.91 64.0584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "modem.kicad_sch"
+			(at 168.91 85.6746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "~{M_RESET}" input
+			(at 168.91 81.28 180)
+			(uuid "1dcca359-b9d6-4add-9aeb-f479d9f30490")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "~{M_PWRKEY}" input
+			(at 168.91 78.74 180)
+			(uuid "75ad78cb-e23f-45cd-84aa-26e9f7dbe19d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "AP_READY" output
+			(at 168.91 76.2 180)
+			(uuid "ab8faa3f-f65f-4037-8919-a46d92b14308")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "VBAT" input
+			(at 190.5 68.58 0)
+			(uuid "e9e05aa9-258a-4e8b-9e9d-154a86d80ee2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "RXD" output
+			(at 168.91 71.12 180)
+			(uuid "608ed6c9-5f1a-46f5-b328-ee57ad996df2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TXD" input
+			(at 168.91 68.58 180)
+			(uuid "c0739678-dec0-4936-98c4-c546827c2c48")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "SoilMoistureIoT"
+				(path "/6eae54c6-c206-4dc6-8158-b1e680dd71f0"
+					(page "3")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
