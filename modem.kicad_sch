@@ -8477,7 +8477,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c347012e-ac26-42e7-afd7-5b05c5e98de0")
-		(property "Reference" "#FLG014"
+		(property "Reference" "#FLG04"
 			(at 96.52 85.725 0)
 			(effects
 				(font
@@ -8527,7 +8527,7 @@
 		(instances
 			(project ""
 				(path "/6eae54c6-c206-4dc6-8158-b1e680dd71f0/ebbdb87f-b8f8-4648-9b7d-b4445aa220ac"
-					(reference "#FLG014")
+					(reference "#FLG04")
 					(unit 1)
 				)
 			)

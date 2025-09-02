@@ -2716,7 +2716,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4fb2465b-84af-41fb-971d-47257fa93b85")
-		(property "Reference" "#FLG011"
+		(property "Reference" "#FLG05"
 			(at 245.11 76.835 0)
 			(effects
 				(font
@@ -2766,7 +2766,7 @@
 		(instances
 			(project ""
 				(path "/6eae54c6-c206-4dc6-8158-b1e680dd71f0/ebbdb87f-b8f8-4648-9b7d-b4445aa220ac/f3098bed-5780-45f4-9c81-4faf701a531c"
-					(reference "#FLG011")
+					(reference "#FLG05")
 					(unit 1)
 				)
 			)
@@ -3183,7 +3183,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d9c48426-05d1-4eaa-8074-2cc249ff7497")
-		(property "Reference" "#FLG012"
+		(property "Reference" "#FLG06"
 			(at 245.11 88.265 0)
 			(effects
 				(font
@@ -3233,7 +3233,7 @@
 		(instances
 			(project "SoilMoistureIoT"
 				(path "/6eae54c6-c206-4dc6-8158-b1e680dd71f0/ebbdb87f-b8f8-4648-9b7d-b4445aa220ac/f3098bed-5780-45f4-9c81-4faf701a531c"
-					(reference "#FLG012")
+					(reference "#FLG06")
 					(unit 1)
 				)
 			)
