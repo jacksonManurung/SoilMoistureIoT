@@ -619,6 +619,17 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "Indicator"
+		(exclude_from_sim no)
+		(at 62.738 60.706 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "df44ecf9-1d48-4fa2-8fbf-4029d3d542b6")
+	)
 	(junction
 		(at 149.86 97.79)
 		(diameter 0)
@@ -1078,6 +1089,21 @@
 			(justify right)
 		)
 		(uuid "c75849d1-e7d5-479f-b0ac-c1ea8705764e")
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 59.69 57.15) (xy 240.03 57.15) (xy 240.03 116.84) (xy 59.69 116.84)
+			)
+			(stroke
+				(width 0)
+				(type dash)
+			)
+			(fill
+				(type none)
+			)
+			(uuid b5785c9b-22de-4f1d-ace6-7d18be4ec54b)
+		)
 	)
 	(symbol
 		(lib_id "Device:LED")

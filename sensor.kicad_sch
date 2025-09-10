@@ -1089,6 +1089,17 @@
 		)
 		(uuid "7ce1506f-c710-4d5f-914e-2f5e60903d80")
 	)
+	(text "Analog sensor"
+		(exclude_from_sim no)
+		(at 92.964 82.804 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "cf4d7ade-f0cc-45a4-9c52-e98d26d05d0e")
+	)
 	(junction
 		(at 140.97 96.52)
 		(diameter 0)
@@ -1246,6 +1257,21 @@
 	(rule_area
 		(polyline
 			(pts
+				(xy 90.17 78.74) (xy 181.61 78.74) (xy 181.61 125.73) (xy 90.17 125.73)
+			)
+			(stroke
+				(width 0)
+				(type dash)
+			)
+			(fill
+				(type none)
+			)
+			(uuid 916381fc-8946-4acc-bfb8-80fc0d46e9d8)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
 				(xy 125.73 87.63) (xy 149.86 87.63) (xy 149.86 107.95) (xy 125.73 107.95)
 			)
 			(stroke
@@ -1255,7 +1281,7 @@
 			(fill
 				(type none)
 			)
-			(uuid c32c78fe-ebee-4d4e-b2ed-a84e15e580a3)
+			(uuid a858d1af-3a20-44e9-8557-f6db6028cae0)
 		)
 	)
 	(symbol

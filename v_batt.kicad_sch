@@ -1020,6 +1020,17 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "Modem decoupling capacitor"
+		(exclude_from_sim no)
+		(at 55.88 61.722 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "965628a1-a659-4956-b8ed-959d0e1f0963")
+	)
 	(junction
 		(at 181.61 105.41)
 		(diameter 0)
@@ -1892,6 +1903,21 @@
 			(justify left)
 		)
 		(uuid "d807907b-97a6-45a9-b381-20408a55dadd")
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 53.34 57.15) (xy 266.7 57.15) (xy 266.7 115.57) (xy 53.34 115.57)
+			)
+			(stroke
+				(width 0)
+				(type dash)
+			)
+			(fill
+				(type none)
+			)
+			(uuid 5f577832-434f-42cd-8e9c-77ba6fe41924)
+		)
 	)
 	(symbol
 		(lib_id "Device:C")

@@ -2334,6 +2334,17 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "Battery connector"
+		(exclude_from_sim no)
+		(at 220.472 43.688 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "63e0fd12-7d00-43f4-b45c-59f26072f3e7")
+	)
 	(junction
 		(at 207.01 143.51)
 		(diameter 0)
@@ -3665,6 +3676,21 @@
 			(justify left)
 		)
 		(uuid "fe4a1383-7022-4de8-a159-e8703f207c09")
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 218.44 40.64) (xy 255.27 40.64) (xy 255.27 68.58) (xy 218.44 68.58)
+			)
+			(stroke
+				(width 0)
+				(type dash)
+			)
+			(fill
+				(type none)
+			)
+			(uuid 7f9ec694-e05c-4b23-a1f9-234d52c9200c)
+		)
 	)
 	(symbol
 		(lib_id "power:GND")

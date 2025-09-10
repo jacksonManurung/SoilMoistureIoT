@@ -399,6 +399,17 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "Additional storage"
+		(exclude_from_sim no)
+		(at 115.316 75.438 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9c8298a5-d63c-4d39-bd56-5fde299834fb")
+	)
 	(wire
 		(pts
 			(xy 170.18 111.76) (xy 168.91 111.76)
@@ -564,6 +575,21 @@
 			(justify right)
 		)
 		(uuid "fc09fcc0-4031-46ad-9928-4324e75568c6")
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 113.03 72.39) (xy 186.69 72.39) (xy 186.69 123.19) (xy 113.03 123.19)
+			)
+			(stroke
+				(width 0)
+				(type dash)
+			)
+			(fill
+				(type none)
+			)
+			(uuid 81307458-db56-4474-80cd-9a1da7650351)
+		)
 	)
 	(symbol
 		(lib_id "FM25V02A-GTR:FM25V02A-GTR")

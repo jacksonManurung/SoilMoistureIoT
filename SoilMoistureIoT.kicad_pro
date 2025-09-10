@@ -144,7 +144,7 @@
         "min_track_width": 0.16,
         "min_via_annular_width": 0.05,
         "min_via_diameter": 0.7,
-        "solder_mask_to_copper_clearance": 0.0,
+        "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
@@ -560,7 +560,7 @@
       "netlist": "",
       "plot": "",
       "pos_files": "",
-      "specctra_dsn": "",
+      "specctra_dsn": "../../Downloads/SoilMoistureIoT.dsn",
       "step": "SoilMoistureIoT.step",
       "svg": "",
       "vrml": ""
@@ -669,7 +669,7 @@
     },
     "net_format_name": "",
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "D:/Jackson/",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
